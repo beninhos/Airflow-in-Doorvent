@@ -6,7 +6,7 @@ Hub options:
 - https://www.arctic.de/en/Case-Fan-Hub/ACFAN00175A
 
 Controller: 
-- esphome
+- ESP32/ESP8266 als primaire controller die lokaal het PWM-signaal voor de ventilatoren genereert
 
 ideas for co2 /temp sensors: 
 - https://www.revk.uk/2019/09/environmental-sensor.html?m=1
