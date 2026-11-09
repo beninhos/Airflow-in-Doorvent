@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" width="1000" height="800" font-family="Arial, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,2 L10,5 L0,8" fill="#c0392b"/></marker></defs>
+<rect width="1000" height="800" fill="#fff"/>
+<text x="20" y="30" font-size="20" font-weight="bold" fill="#222">DoorVent — montageplaat 9× Noctua NF-A4x20 PWM (maten in mm)</text>
+<text x="20" y="70" font-size="15" font-weight="bold" fill="#222">1. Vooraanzicht montageplaat (vanaf kamerzijde)</text>
+<rect x="80" y="110" width="840" height="100" fill="#f3e9d7" stroke="#222" stroke-width="2"/>
+<rect x="100" y="120.0" width="80" height="80" fill="none" stroke="#888" stroke-dasharray="4 3"/>
+<circle cx="140.0" cy="160.0" r="37.0" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<circle cx="108.0" cy="128.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="108.0" cy="192.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="172.0" cy="128.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="172.0" cy="192.0" r="4.5" fill="#fff" stroke="#222"/>
+<rect x="190" y="120.0" width="80" height="80" fill="none" stroke="#888" stroke-dasharray="4 3"/>
+<circle cx="230.0" cy="160.0" r="37.0" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<circle cx="198.0" cy="128.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="198.0" cy="192.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="262.0" cy="128.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="262.0" cy="192.0" r="4.5" fill="#fff" stroke="#222"/>
+<rect x="280" y="120.0" width="80" height="80" fill="none" stroke="#888" stroke-dasharray="4 3"/>
+<circle cx="320.0" cy="160.0" r="37.0" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<circle cx="288.0" cy="128.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="288.0" cy="192.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="352.0" cy="128.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="352.0" cy="192.0" r="4.5" fill="#fff" stroke="#222"/>
+<rect x="370" y="120.0" width="80" height="80" fill="none" stroke="#888" stroke-dasharray="4 3"/>
+<circle cx="410.0" cy="160.0" r="37.0" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<circle cx="378.0" cy="128.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="378.0" cy="192.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="442.0" cy="128.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="442.0" cy="192.0" r="4.5" fill="#fff" stroke="#222"/>
+<rect x="460" y="120.0" width="80" height="80" fill="none" stroke="#888" stroke-dasharray="4 3"/>
+<circle cx="500.0" cy="160.0" r="37.0" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<circle cx="468.0" cy="128.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="468.0" cy="192.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="532.0" cy="128.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="532.0" cy="192.0" r="4.5" fill="#fff" stroke="#222"/>
+<rect x="550" y="120.0" width="80" height="80" fill="none" stroke="#888" stroke-dasharray="4 3"/>
+<circle cx="590.0" cy="160.0" r="37.0" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<circle cx="558.0" cy="128.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="558.0" cy="192.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="622.0" cy="128.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="622.0" cy="192.0" r="4.5" fill="#fff" stroke="#222"/>
+<rect x="640" y="120.0" width="80" height="80" fill="none" stroke="#888" stroke-dasharray="4 3"/>
+<circle cx="680.0" cy="160.0" r="37.0" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<circle cx="648.0" cy="128.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="648.0" cy="192.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="712.0" cy="128.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="712.0" cy="192.0" r="4.5" fill="#fff" stroke="#222"/>
+<rect x="730" y="120.0" width="80" height="80" fill="none" stroke="#888" stroke-dasharray="4 3"/>
+<circle cx="770.0" cy="160.0" r="37.0" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<circle cx="738.0" cy="128.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="738.0" cy="192.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="802.0" cy="128.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="802.0" cy="192.0" r="4.5" fill="#fff" stroke="#222"/>
+<rect x="820" y="120.0" width="80" height="80" fill="none" stroke="#888" stroke-dasharray="4 3"/>
+<circle cx="860.0" cy="160.0" r="37.0" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<circle cx="828.0" cy="128.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="828.0" cy="192.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="892.0" cy="128.0" r="4.5" fill="#fff" stroke="#222"/>
+<circle cx="892.0" cy="192.0" r="4.5" fill="#fff" stroke="#222"/>
+<line x1="80" y1="98" x2="920" y2="98" stroke="#c0392b" stroke-width="1" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="500.0" y="94" font-size="12" text-anchor="middle" fill="#c0392b">420 (vrije binnenmaat)</text>
+<line x1="80" y1="228" x2="100" y2="228" stroke="#c0392b" stroke-width="1" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="90.0" y="224" font-size="11" text-anchor="middle" fill="#c0392b">10</text>
+<line x1="140.0" y1="228" x2="230.0" y2="228" stroke="#c0392b" stroke-width="1" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="185.0" y="224" font-size="11" text-anchor="middle" fill="#c0392b">45 h.o.h.</text>
+<line x1="180" y1="250" x2="190" y2="250" stroke="#c0392b" stroke-width="1" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="185.0" y="246" font-size="11" text-anchor="middle" fill="#c0392b">5</text>
+<line x1="900" y1="228" x2="920" y2="228" stroke="#c0392b" stroke-width="1" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="910.0" y="224" font-size="11" text-anchor="middle" fill="#c0392b">10</text>
+<line x1="70" y1="110" x2="70" y2="210" stroke="#c0392b" stroke-width="1" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="65" y="164.0" font-size="12" text-anchor="end" fill="#c0392b">50</text>
+<text x="80" y="278" font-size="12" fill="#222">9 × 40 + 8 × 5 + 2 × 10 = 420.  Fan 40 hoog, gecentreerd: 5 boven / 5 onder.  Stippellijn = buitenrand fan (zit achter de plaat).</text>
+<text x="20" y="310" font-size="15" font-weight="bold" fill="#222">2. Detail per fan (schaal ≈ 6:1)</text>
+<rect x="60" y="350" width="280" height="280" fill="#f3e9d7" stroke="none"/>
+<rect x="80" y="370" width="240" height="240" fill="none" stroke="#888" stroke-dasharray="4 3"/>
+<circle cx="200.0" cy="490.0" r="111.0" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<circle cx="104.0" cy="394.0" r="13.5" fill="#fff" stroke="#222"/>
+<circle cx="104.0" cy="586.0" r="13.5" fill="#fff" stroke="#222"/>
+<circle cx="296.0" cy="394.0" r="13.5" fill="#fff" stroke="#222"/>
+<circle cx="296.0" cy="586.0" r="13.5" fill="#fff" stroke="#222"/>
+<line x1="80" y1="655" x2="320" y2="655" stroke="#c0392b" stroke-width="1" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="200.0" y="651" font-size="12" text-anchor="middle" fill="#c0392b">40 (fanrand)</text>
+<line x1="104.0" y1="340" x2="296.0" y2="340" stroke="#c0392b" stroke-width="1" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="200.0" y="336" font-size="12" text-anchor="middle" fill="#c0392b">32 h.o.h. — VERIFIËREN op de fan</text>
+<line x1="50" y1="394.0" x2="50" y2="586.0" stroke="#c0392b" stroke-width="1" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="45" y="494.0" font-size="12" text-anchor="end" fill="#c0392b">32</text>
+<line x1="89.0" y1="490.0" x2="311.0" y2="490.0" stroke="#c0392b" stroke-width="1" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="200.0" y="486.0" font-size="12" text-anchor="middle" fill="#c0392b">Ø37 zaagopening</text>
+<text x="360" y="380" font-size="13" fill="#222">• Ronde opening Ø37 per fan, géén vierkant</text>
+<text x="360" y="400" font-size="13" fill="#222">  40×40-gat: dan verdwijnen de hoekgaten</text>
+<text x="360" y="420" font-size="13" fill="#222">  en valt de fan door de plaat.</text>
+<text x="360" y="440" font-size="13" fill="#222">• 4 hoekgaten Ø4,5 (passend maken op de</text>
+<text x="360" y="460" font-size="13" fill="#222">  meegeleverde siliconen pinnen).</text>
+<text x="360" y="480" font-size="13" fill="#222">• Fan zit áchter de plaat, op een</text>
+<text x="360" y="500" font-size="13" fill="#222">  afdichtingsring (foam/tochtband ±2 mm).</text>
+<text x="360" y="520" font-size="13" fill="#222">• Tussen hoekgat en opening blijft ±2 mm</text>
+<text x="360" y="540" font-size="13" fill="#222">  materiaal: stevig plaatmateriaal kiezen.</text>
+<text x="360" y="560" font-size="13" fill="#222">• Geen schroeven direct in de fan.</text>
+<text x="660" y="320" font-size="15" font-weight="bold" fill="#222">3. Doorsnede (diepte)</text>
+<text x="710" y="360" font-size="12" fill="#222" text-anchor="middle">kamer</text>
+<rect x="720" y="380" width="25" height="25" fill="#d9b38c" stroke="#222"/>
+<rect x="720" y="605" width="25" height="25" fill="#d9b38c" stroke="#222"/>
+<text x="732.5" y="652" font-size="11" text-anchor="middle" fill="#222">latje 5</text>
+<rect x="745" y="380" width="20" height="32.5" fill="#c8a26b" stroke="#222"/>
+<rect x="745" y="597.5" width="20" height="32.5" fill="#c8a26b" stroke="#222"/>
+<text x="755.0" y="666" font-size="11" text-anchor="middle" fill="#222">plaat 4</text>
+<rect x="765" y="405" width="10" height="10" fill="#555"/>
+<rect x="765" y="595" width="10" height="10" fill="#555"/>
+<text x="770.0" y="680" font-size="11" text-anchor="middle" fill="#222">pakking 2</text>
+<rect x="775" y="405" width="100" height="200" fill="#9ab" stroke="#222"/>
+<text x="825.0" y="694" font-size="11" text-anchor="middle" fill="#222">fan 20</text>
+<rect x="745" y="374" width="150" height="6" fill="#a07b4f"/>
+<rect x="745" y="630" width="150" height="6" fill="#a07b4f"/>
+<line x1="745" y1="725" x2="895" y2="725" stroke="#c0392b" stroke-width="1" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="820.0" y="721" font-size="12" text-anchor="middle" fill="#c0392b">bakdiepte ≥ 30 (min. 26)</text>
+<text x="907" y="505.0" font-size="12" fill="#222">gang</text>
+<path d="M690,505.0 L900,505.0" stroke="#2c7" stroke-width="2" marker-end="url(#a)" opacity="0.7"/>
+<text x="810" y="497.0" font-size="11" fill="#2c7">lucht de kamer uit</text>
+<text x="20" y="780" font-size="12" fill="#666">Bron: github.com/beninhos/Airflow-in-Doorvent — zie INSTRUCTIE-MEUBELMAKER.md</text>
+</svg>

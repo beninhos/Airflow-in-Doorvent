@@ -10,3 +10,7 @@ Het systeem is ontworpen met de volgende uitgangspunten:
 - Slimme aansturing en integratie met een home-automation platform
 - Modulair en uitbreidbaar, zodat het concept toepasbaar is in meerdere ruimtes
 - Betaalbare, flexibele en onderhoudsarme oplossing voor extra ventilatie, zonder ingrijpende bouwkundige aanpassingen.
+
+## Bouw
+
+- [Instructie meubelmaker + tekening montageplaat](INSTRUCTIE-MEUBELMAKER.md)
