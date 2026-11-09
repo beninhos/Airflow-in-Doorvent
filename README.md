@@ -14,3 +14,4 @@ Het systeem is ontworpen met de volgende uitgangspunten:
 ## Bouw
 
 - [Instructie meubelmaker + tekening montageplaat](INSTRUCTIE-MEUBELMAKER.md)
+- [Opdracht meubelmaker (Word)](Opdracht-meubelmaker-fanframe.docx)

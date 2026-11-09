@@ -1,6 +1,6 @@
 # Instructie meubelmaker — fanbak in het bovenpaneel
 
-Tekening: [tekeningen/montageplaat.svg](tekeningen/montageplaat.svg)
+Tekening: [tekeningen/montageplaat.svg](tekeningen/montageplaat.svg) · Opdracht als Word-bestand: [Opdracht-meubelmaker-fanframe.docx](Opdracht-meubelmaker-fanframe.docx)
 
 ![Montageplaat](tekeningen/montageplaat.svg)
 
@@ -11,7 +11,7 @@ In het vaste paneel boven de slaapkamerdeur zit nu het DUCO DoorVent-rooster in 
 ## Vóór het zagen: eerst controleren
 
 1. **Hoekgaten op de fan opmeten.** De tekening gaat uit van 32 mm hart-op-hart. Meet dit na op een echte fan.
-2. **Siliconen pinnen passen.** Boor een proefgat (Ø4,5) in een restje van het plaatmateriaal en kijk of de meegeleverde pin er goed in klemt. Pas de gatmaat zo nodig aan.
+2. **Siliconen pinnen passen.** Boor een proefgat (Ø4,5) in een restje van het plaatmateriaal en kijk of de meegeleverde pin er goed in klemt. Pas de gatmaat zo nodig aan. De pinnen zijn gemaakt voor dunne pc-kastwanden: krijg je ze niet door de plaat, verdiep de gaatjes dan aan de achterkant of kies dunner materiaal.
 3. **Binnenmaat van de bak.** De layout van 9 fans gaat uit van een **vrije binnenmaat van 420 × 50 mm**. Als de wanden van de bak ín het bestaande gat komen, wordt de binnenmaat kleiner en passen er geen 9 fans meer. Dan: gat vergroten, of naar 8 fans (heeft minimaal 375 mm vrije breedte nodig). Even overleggen voordat je verder gaat.
 
 ## Onderdelen
